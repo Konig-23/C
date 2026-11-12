@@ -26,6 +26,7 @@ int main()
  * @return `true` if given number is palindrome number
  * @return `false` if number is not a palindrome number
  */
+// acest program verifica daca un numar este palindrom sau nu
 bool isPalindrome(int number)
 {
     int reversedNumber = 0;
